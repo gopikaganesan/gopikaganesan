@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Gopika
 - ✔  I’m interested in computer field
-- 💻 I’m currently working with my final year project
+- 💻 I’m currently working with my final year project and learning to working with Spark AR Studio
 - 👀 I’m looking to collaborate on future technology
 - 📫 Reach me ... gopikaganesan@outlook.com
+- ✨ Spark AR Portfolio - https://www.facebook.com/sparkarhub/portfolios/ig/gopikaganesan/
 
 
 
